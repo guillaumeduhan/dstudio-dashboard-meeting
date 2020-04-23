@@ -1,5 +1,5 @@
 <template lang="html">
-  <div id="app" class="flex bg-aqua h-screen m">
+  <div id="app" class="flex bg-aqua h-screen overflow-hidden">
     <div class="w-4/6">
       <LoadingDashboard v-if="isLoading" />
     </div>
