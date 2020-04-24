@@ -1,5 +1,5 @@
 <template lang="html">
-  <div id="LoadingDashboard" class="h-screen p-12">
+  <div id="LoadingDashboard" class="flex flex-col justify-between h-screen p-12">
     <header class="flex items-center pb-20 justify-between">
       <div class="w-1/4">
         <LoadingThumbnail />
