@@ -24,7 +24,7 @@ export default {
   name: "LoadingSidebar",
   components: {
     LoadingThumbnail,
-    LoadingLine,
-  },
+    LoadingLine
+  }
 };
 </script>
