@@ -13,12 +13,12 @@ export default {
   props: {
     height: {
       default: "",
-      type: String,
+      type: String
     },
     width: {
       default: "",
-      type: String,
-    },
-  },
+      type: String
+    }
+  }
 };
 </script>
